@@ -21,6 +21,6 @@ Backend Developer enfocado en construir sistemas eficientes y escalables. Me apa
 ### 📊 Mis Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jlafont-1405&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jlafont-1405&layout=compact&theme=radical)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jlafont-1405&repo=diaconado-maracay&theme=radical)](https://github.com/jlafont-1405/Sistema-Diaconado)
 ---
 *“La calidad no es un acto, es un hábito.”*

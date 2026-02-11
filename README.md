@@ -18,10 +18,13 @@ Backend Developer enfocado en construir sistemas eficientes y escalables. Me apa
 
 ---
 
-### 📊 Mis Estadísticas
+### 🛠️ Stack Principal
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jlafont-1405&repo=diaconado-maracay&theme=radical)](https://github.com/jlafont-1405/Sistema-Diaconado)
+
+### 📊 Actividad en GitHub
+![Estadísticas de Jean](https://github-readme-stats.vercel.app/api?username=jlafont-1405&show_icons=true&theme=radical&hide_border=true)
+
 ---
 *“La calidad no es un acto, es un hábito.”*

@@ -4,7 +4,7 @@ Backend Developer en formación & QA Engineer. Me apasiona construir soluciones 
 
 ### 🛠️ Proyectos Destacados
 
-#### ⛪ [Diócesis de Maracay](https://github.com/jlafont-1405/diaconado-maracay) (Privado - En Desarrollo)
+#### ⛪ [Diócesis de Maracay](https://github.com/jlafont-1405/Sistema-Diaconado) (Privado - En Desarrollo)
 *Plataforma integral de gestión académica y pastoral.*
 - **Stack:** NestJS 11, React 19, MongoDB, Puppeteer (PDFs).
 - **Highlight:** Arquitectura monorepo con un sistema de reportes PDF automatizado con Pupperteer y gestión de imágenes con Cloudinary.

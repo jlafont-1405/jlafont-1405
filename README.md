@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jean Claude Lafont 👋
 
-Backend Developer & QA Engineer. Me apasiona construir soluciones robustas, escalables y con un enfoque riguroso en la calidad del código. Actualmente profundizo en arquitecturas modulares con **NestJS** y sistemas de mensajería con **RabbitMQ**.
+Backend Developer en formación & QA Engineer. Me apasiona construir soluciones robustas, escalables y con un enfoque riguroso en la calidad del código. Actualmente profundizo en arquitecturas modulares con **NestJS** y sistemas de mensajería con **RabbitMQ**.
 
 ### 🛠️ Proyectos Destacados
 
@@ -14,7 +14,7 @@ Backend Developer & QA Engineer. Me apasiona construir soluciones robustas, esca
 - **Stack:** Node.js, TypeScript, TailwindCSS, ExcelJS.
 - **Highlight:** Interfaz "Transformers" (Mobile-first) y generación de reportes contables dinámicos en Excel.
 
-#### 🚜 [Granja PRO](https://github.com/jlafont-1405/sistema-granja)
+#### 🚜 [Granja PRO](https://github.com/jlafont-1405/sistema-granja-qa)
 *POS & Inventory System para distribución agrícola.*
 - **Stack:** Express, MongoDB, Mongoose, Jest.
 - **Highlight:** Sistema Local-First con integración de hardware HID (lectores de barras) y cobertura de pruebas con Jest.
